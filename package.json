@@ -1,0 +1,22 @@
+{
+  "name": "sgq-datacom-exam",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/monsi19/sgq-datacom-exam.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/monsi19/sgq-datacom-exam/issues"
+  },
+  "homepage": "https://github.com/monsi19/sgq-datacom-exam#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.55.1",
+    "@types/node": "^24.6.0"
+  }
+}
